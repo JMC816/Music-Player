@@ -1,3 +1,5 @@
+@import "center.css";
+
 body {
     background: linear-gradient(45deg, violet, orange);
 } 
