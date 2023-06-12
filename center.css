@@ -5,3 +5,7 @@
 .size {
     width: 24px;
 }
+
+.playback__bar__center, .pause__bar__center  {
+    cursor: pointer;
+}
